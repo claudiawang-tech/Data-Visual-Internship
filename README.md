@@ -17,6 +17,6 @@ and find the potential customers.
 
 # My tasks
 
-Assessment of data quality and completeness in preparation for analysis.
-Find targeting high value customers based on customer demographics and attributes by Tableau.
-Use visualisations to present insights.
+* Assessment of data quality and completeness in preparation for analysis.
+* Find targeting high value customers based on customer demographics and attributes by Tableau.
+* Use visualisations to present insights.
